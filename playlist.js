@@ -51,3 +51,6 @@ myMix.addSong("Evening Jazz");
 myMix.playFirst(); //Play the first song
 myMix.skipSong(); //Skip the current song
 myMix.listSongs(); //List the songs
+
+// Suggestion: Add a way to remove a specific song
+
