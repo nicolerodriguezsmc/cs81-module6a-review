@@ -54,3 +54,9 @@ myMix.listSongs(); //List the songs
 
 // Suggestion: Add a way to remove a specific song
 
+// Returns the number of songs in the playlist
+// this refers to the current Playlist
+Playlist.prototype.getSongCount = function() {
+  return this.songs.length;
+};
+
