@@ -1,3 +1,10 @@
+/*
+* Nicole Rodriguez
+* CS 81 Summer 2025
+* Module 6a HW
+* 7/13/2025
+*/
+
 //Creates a new playlist object with an inputted name
 // this refers to the new Playlist
 function Playlist(name) {
